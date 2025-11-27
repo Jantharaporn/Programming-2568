@@ -41,9 +41,7 @@
 <div class="container">
     <h1>Loop PHP</h1>
 
-    <!-- ===========================
-         1) Loop FOR
-    ============================ -->
+    <!--1) Loop FOR-->
     <h2 class="title">1) ใช้ Loop FOR</h2>
     <pre>
 <?php
@@ -82,9 +80,7 @@ for ($i = 3; $i >= 1; $i--) {
     </pre>
 
 
-    <!-- ===========================
-         2) Loop WHILE
-    ============================ -->
+    <!--2) Loop WHILE-->
     <h2 class="title">2) ใช้ Loop WHILE</h2>
     <pre>
 <?php
@@ -134,10 +130,7 @@ while ($i >= 1) {
 ?>
     </pre>
 
-
-    <!-- ===========================
-         3) Loop DO WHILE
-    ============================ -->
+    <!--3) Loop DO WHILE -->
     <h2 class="title">3) ใช้ Loop DO WHILE</h2>
     <pre>
 <?php
